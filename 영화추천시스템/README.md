@@ -4,7 +4,7 @@
 
 MovieLens latest small 데이터셋을 다양한 방법으로 분석해보세요.데이터셋은 다음의 주소에서 다운로드 받을 수 있습니다.https://grouplens.org/datasets/movielens/latest/
 
-sklearn, pytorch 등 외부 라이브러리 사용 가능합니다.하나의 ipynb파일에 다음 Task들을 모두 수행하여 제출하세요.파일명은 “이름_학번_p02.ipynb”로 하여 제출하세요.
+
 
 ## **Task 1. ( 15** 점 **)** 데이터 준비하기
 
